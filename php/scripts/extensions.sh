@@ -20,6 +20,7 @@ apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -yqq \
         intl \
         zip \
         bz2 \
+        gmp \
         bcmath
 
 # MONGO, xdebug and other extensions
